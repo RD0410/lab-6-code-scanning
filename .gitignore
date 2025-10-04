@@ -7,3 +7,6 @@ venv
 *db.sqlite3*
 app.log
 bin
+*.sarif
+*.zip
+.DS_Store
